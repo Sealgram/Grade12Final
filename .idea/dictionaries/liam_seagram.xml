@@ -2,9 +2,11 @@
   <dictionary name="liam_seagram">
     <words>
       <w>activesubreddit</w>
+      <w>appid</w>
       <w>bjto</w>
       <w>botkeyphrase</w>
       <w>botsummons</w>
+      <w>cityname</w>
       <w>commentdatabase</w>
       <w>creds</w>
       <w>currentsummons</w>
