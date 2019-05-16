@@ -4,11 +4,14 @@
       <w>activesubreddit</w>
       <w>bjto</w>
       <w>botkeyphrase</w>
+      <w>botsummons</w>
       <w>commentdatabase</w>
       <w>creds</w>
+      <w>currentsummons</w>
       <w>databaseappend</w>
       <w>databasewipe</w>
       <w>datastr</w>
+      <w>evmk</w>
       <w>gitpj</w>
       <w>igbi</w>
       <w>itemsupvoted</w>
@@ -17,6 +20,7 @@
       <w>listoflines</w>
       <w>maininstance</w>
       <w>mostused</w>
+      <w>newsummons</w>
       <w>poxv</w>
       <w>praw</w>
       <w>randompick</w>
@@ -26,11 +30,14 @@
       <w>sealgram</w>
       <w>statsbot</w>
       <w>subreddit</w>
+      <w>uponesummon</w>
       <w>upvoted</w>
       <w>upvoteditems</w>
       <w>upvotes</w>
       <w>userstatsbot</w>
+      <w>weatherbot</w>
       <w>wucj</w>
+      <w>xfhuu</w>
       <w>yeet</w>
     </words>
   </dictionary>
